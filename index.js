@@ -5,5 +5,5 @@ app.get('/', function (req, res) {
   res.json({status: "online"})
 })
 
-app.listen(22)
+app.listen(443)
 console.log("rodando na porta 3000...")
