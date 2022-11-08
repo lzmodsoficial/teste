@@ -1,0 +1,17 @@
+{
+  "name": "juuj",
+  "version": "1.0.0",
+  "description": "juuuj",
+  "main": "index.js",
+  "scripts": {
+    "test": "juuj.js"
+  },
+  "keywords": [
+    "juuj"
+  ],
+  "author": "juuj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
